@@ -1,0 +1,27 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "This is a library management API backend for the \r  management of users and the books",
+  "homepage": "https://github.com/priyalcode/Library-management-system#readme",
+  "bugs": {
+    "url": "https://github.com/priyalcode/Library-management-system/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyalcode/Library-management-system.git"
+  },
+  "license": "ISC",
+  "author": "priyal lowanshi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "dev":"nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

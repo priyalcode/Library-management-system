@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john@example.com",
+    "phone": "555-0101",
+    "membershipDate": "2024-01-15",
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane@example.com",
+    "phone": "555-0102",
+    "membershipDate": "2024-02-10",
+    "status": "active"
+  },
+  {
+    "id": 3,
+    "name": "Mike Johnson",
+    "email": "mike@example.com",
+    "phone": "555-0103",
+    "membershipDate": "2024-01-20",
+    "status": "inactive"
+  },
+  {
+    "id": 4,
+    "name": "Sarah Williams",
+    "email": "sarah@example.com",
+    "phone": "555-0104",
+    "membershipDate": "2024-03-05",
+    "status": "active"
+  }
+]

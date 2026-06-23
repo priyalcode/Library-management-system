@@ -1,0 +1,50 @@
+[
+  { "id":"1",
+    "bookTitle": "The Great Gatsby",
+    "name": "Priya",
+    "surname": "Sharma",
+    "email":"user@gmail.com",
+    "issuedBook": "04/01/2022",
+    "returnDate": "04/01/2022",
+    "subscriptionType": "premium"
+  },
+  { "id":"2",
+    "bookTitle": "To Kill a Mockingbird",
+    "name": "Anil",
+    "surname": "Verma",
+    "email":"user@gmail.com",
+    "issuedBook": "04/01/2022",
+    "returnDate": "04/01/2022",
+    "subscriptionType": "standard"
+  },
+  { "id":"3",
+    "bookTitle": "1984",
+    "name": "Neha",
+    "surname": "Patel",
+     "email":"user@gmail.com",
+    "issuedBook": "04/01/2022",
+    "returnDate": "04/01/2022",
+    "subscriptionType": "basic"
+  },
+  { "id":"4",
+    "bookTitle": "Pride and Prejudice",
+    "name": "Ravi",
+    "surname": "Kumar",
+     "email":"user@gmail.com",
+    "issuedBook": "04/01/2022",
+    "returnDate": "04/01/2022",
+    "subscriptionType": "premium"
+  },
+  { "id":"5",
+    "bookTitle": "The Alchemist",
+    "name": "Sana",
+    "surname": "Singh",
+     "email":"user@gmail.com",
+    "issuedBook": "04/01/2022",
+    "returnDate": "04/01/2022",
+    "subscriptionType": "standard"
+  }
+]
+
+
+
